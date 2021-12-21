@@ -148,7 +148,8 @@
   }
   .nav-tp {
     margin-bottom: 0px;
-    background: #263B5E;
+    /*background: #263B5E;*/
+    background: #fff;
   }
   .navbar-toggler {
     background: #fff;
@@ -248,7 +249,8 @@
   }
   .nav-tp {
     margin-bottom: 0px;
-    background: #263B5E;
+    /*background: #263B5E;*/
+    background: #fff;
   }
   .navbar-toggler {
     background: #fff;
