@@ -500,7 +500,7 @@ Header TopBar
 }
 
 .navbar .navbar-brand {
-  width: 230px;
+  width: 180px;
 }
 
 .navbar-nav .nav-link:hover {
@@ -551,9 +551,9 @@ Header TopBar
 }
 
 .dropdown-item:hover {
-  color: #fff;
+  color: black;
   text-decoration: none;
-  background-color: #FF1949;
+  background-color: #EEF8FD;
 }
 
 .dropdown-toggle::after {
