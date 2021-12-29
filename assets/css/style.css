@@ -503,8 +503,10 @@ Header TopBar
   width: 180px;
 }
 
+/*메뉴 호버 컬러*/
 .navbar-nav .nav-link:hover {
-  color: #FF1949;
+  /*color: #FF1949;*/
+  color: black;
 }
 
 .middle-navbar-nav .nav-link:hover {
